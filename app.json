@@ -21,7 +21,7 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.proflex.www",
-      "buildNumber": "1.0.0",
+      "buildNumber": "1.0.0"
       // "config": {
       //   // ...
       //   "googleMobileAdsAppId": "ca-app-pub-3940256099942544~1458002511" // sample id, replace with your own
@@ -29,7 +29,7 @@
     },
     "android": {
       "package": "com.proflex_movies_app.www",
-      "versionCode": 2,
+      "versionCode": 3,
       "config": {
         "googleMobileAdsAppId": "ca-app-pub-2665872538512449~2043833193" // Android App ID
       },
